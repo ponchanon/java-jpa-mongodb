@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<SpringBootJDBC>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "customers.Application",
+            "projectName": "SpringBootJDBC",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
